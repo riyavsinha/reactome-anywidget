@@ -1,0 +1,21 @@
+[project]
+name = "reactome-anywidget"
+version = "0.0.0a"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "anywidget>=0.9.13",
+    "ipywidgets>=8.1.5",
+]
+
+[dependency-groups]
+dev = [
+    "jupyterlab>=4.3.5",
+    "marimo>=0.11.6",
+    "anywidget[dev]>=0.9.13",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

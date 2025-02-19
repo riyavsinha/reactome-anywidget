@@ -1,0 +1,1 @@
+from ._widget import ReactomeWidget # noqa: F401
