@@ -1,6 +1,6 @@
 # Reactome Anywidget
 
-This is a widget that allows you to embed a Reactome pathway diagram in environments like JupyterLab or Marimo notebooks.
+This is a widget built on [AnyWidget](https://anywidget.dev/) that allows you to embed a Reactome pathway diagram in environments like JupyterLab or Marimo notebooks.
 
 <img width="1174" alt="Screenshot 2025-02-19 at 1 26 47 AM" src="https://github.com/user-attachments/assets/602c1619-22de-41b7-965b-c420e3b4f5c4" />
 
